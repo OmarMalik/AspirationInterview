@@ -1,0 +1,16 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "capitalization.js",
+  "scripts": {
+    "test": "jest --testPathPattern=tests/*",
+    "testFile": "jest -- "
+
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.4.7"
+  }
+}
